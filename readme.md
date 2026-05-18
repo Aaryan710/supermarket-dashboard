@@ -7,7 +7,7 @@
 
 An interactive data dashboard built with **Streamlit** that analyzes supermarket sales, customer behavior, product performance, and profitability.
 
-## 🚀 Live Demo
+## 🚀 Live Demo.
 
 **Click the badge above or [here](https://supermarket-dashboard-k5cxnkyf4qvj5aewcxs8u5.streamlit.app/) to view the live dashboard.**
 
